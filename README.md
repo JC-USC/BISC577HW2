@@ -1,1 +1,3 @@
-# BISC577HW2
+# BISC577
+
+# Name: Jae Cha
